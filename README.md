@@ -1,4 +1,16 @@
-# documentation
+# Story Teller Web App - My Hobby Project
+
+This is a hobby project, I do on my spare time and my intention is to learn and make something useful for me, my family. If it's really helpful may be open up for more people, in future.
+
+# Considerations:
+## Cost
+We need to keep the cost to absolute minimum as there is no timeline. Hence Infrastructure as Code and using Serverless Architecture is the key. 
+## Maintenance Effort
+We need to automate the entire pipeline, So that changes can be made easy and confidently.
+## Tech Stack
+The main objective is to learn. So every opportunity will be taken to try something new and do it differently. 
+## Security
+Even though its a hobby project, we should ensure the application is secured and best practises are followed.
 
 ![Design](https://github.com/madhusudhanan-mohan/documentation/blob/main/openAI.png?raw=true)
 
