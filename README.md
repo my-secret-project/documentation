@@ -41,3 +41,5 @@ Lambda API's are built and deployed using [SAM CLI](https://docs.aws.amazon.com/
 - [Spring boot demo application with Aurora DB backend-demo instance](http://ec2-54-146-77-17.compute-1.amazonaws.com:8080/demo/greeting)
 - [Aurora DB provisioning using python boto3](https://github.com/my-secret-project/aurora-mysql)
 
+# About the author
+<img src="Madhu.jpg" alt="Madhu" style="height: 100px; width:100px;"/>
