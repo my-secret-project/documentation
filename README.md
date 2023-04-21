@@ -12,6 +12,10 @@ The main objective is to learn. So every opportunity will be taken to try someth
 ## Security
 Even though its a hobby project, we should ensure the application is secured and best practises are followed.
 
+# Design
+Here is a simplest view of the project so far. We have react native UI interacts with lambda API backend secured using google firebase.
+UI static files are built using [Github actions](https://docs.github.com/en/actions) and published to [AWS S3 bucket](https://aws.amazon.com/s3/) and served to the end user using [AWS Content Delivery Network](https://aws.amazon.com/cloudfront/). 
+Lambda API's are built and deployed using [SAM CLI](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html)  
 ![Design](https://github.com/madhusudhanan-mohan/documentation/blob/main/openAI.png?raw=true)
 
 # Lambda's
