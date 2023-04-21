@@ -47,6 +47,9 @@ Lambda API's are built and deployed using [SAM CLI](https://docs.aws.amazon.com/
   <tr><td>
 <img src="Madhu.jpg" alt="Madhu" style="height: 100px; width:75px;"/> 
     </td>
-    <td>Madhu is a passionate devops engineer by heart and driven by values, which makes him a valuable asset in any team. He loves his running listening to his favourite music. He loves camping and outdoors. He has a smart kid and loves learning to be a great parent.
+    <td>Madhu is a passionate devops engineer by heart and driven by values, 
+      which makes him a valuable asset in any team. He loves his running listening 
+      to his favourite music. He loves camping and outdoors. He has a smart kid 
+      and loves learning to be a great parent.
     </td></tr>
 </table>
