@@ -16,6 +16,10 @@
 - [Source](https://github.com/my-secret-project/storytellerweb)
 - [Demo](http://madhu-learning-aws-storytellerweb.s3-website-ap-southeast-2.amazonaws.com)
 
+# Admin
+- [Firebase Admin](https://console.firebase.google.com/project/story-teller-9c304/overview)
+- [OpenAI admin](https://platform.openai.com/account/members)
+
 # Others
 - [Spring boot demo application with Aurora DB backend-code](https://github.com/my-secret-project/springboot-demo)
 - [Spring boot demo application with Aurora DB backend-demo instance](http://ec2-54-146-77-17.compute-1.amazonaws.com:8080/demo/greeting)
